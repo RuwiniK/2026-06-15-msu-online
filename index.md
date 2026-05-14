@@ -10,7 +10,7 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latitude: "0"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "0"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Jun 15-18, 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1.00 pm - 5.00 pm EST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "1.00 pm - 5.00 pm EDT"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2026-06-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-06-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Ruwini Rupasinghe", "Eleanor Carr", "Nicholas Louis Panchy"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -434,6 +434,15 @@ please preview your site before committing, and make sure to run
   workshop,
   you will need access to software as described below.
   In addition, you will need an up-to-date web browser.
+</p>
+<p>
+  This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. All of the data and most of the software used in the workshop are hosted on an Amazon Machine Image (AMI).
+  Please follow the instructions below to prepare your computer for the workshop:
+  <a href = "https://datacarpentry.github.io/genomics-workshop/index.html#option-a-recommended-using-the-lessons-with-amazon-web-services-aws">Option A (Recommended): Using the lessons with Amazon Web Services (AWS)</a>.
+</p>
+<p>
+  Some additional software, detailed below, must be installed on your computer.
+  <a href = "https://datacarpentry.github.io/genomics-workshop/index.html#required-additional-software">Required additional software</a>.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
