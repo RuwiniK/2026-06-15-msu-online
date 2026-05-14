@@ -436,8 +436,8 @@ please preview your site before committing, and make sure to run
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
-  This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. All of the data and most of the software used in the workshop are hosted on an Amazon Machine Image (AMI). Some additional software, detailed below, must be installed on your computer.
-  Please follow the instructions below to prepare your computer for the workshop:
+  This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. All of the data and most of the software used in the workshop are hosted on an Amazon Machine Image (AMI). Some additional software must be installed on your computer.
+  Please follow the instructions here to prepare your computer for the workshop:
   <a href = "https://datacarpentry.github.io/genomics-workshop/index.html#required-additional-software">Required additional software</a>.
 </p>
 <p>
