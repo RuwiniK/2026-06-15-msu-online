@@ -1,6 +1,6 @@
 [![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://ruwinik.github.io/2026-06-15-msu-online/)
 
-# Data Carpentry: Genomics data management and analysis (Online)
+# Data Carpentry: Genomics data management and analysis (online)
 
 This workshop teaches data management and analysis for genomics research including:
 
