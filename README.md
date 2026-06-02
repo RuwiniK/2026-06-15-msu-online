@@ -19,7 +19,7 @@ This workshop will occur June 15-18, 2026 from 1:00pm-5:00pm each day. By the en
 - work with Amazon AWS cloud computing and transfer data between their local computer and cloud resources.
 
 
-This is an official [Data Carpentry](#https://datacarpentry.org/) workshop and will follow its style, curriculum, and [code of conduct] (#https://docs.carpentries.org/policies/coc/) to provide a welcoming and interactive environment for learning the basics of working with data.
+This is an official [Data Carpentry](https://datacarpentry.org/) workshop and will follow its style, curriculum, and [code of conduct](https://docs.carpentries.org/policies/coc/) to provide a welcoming and interactive environment for learning the basics of working with data.
 
 Registration is required and closes on Monday, June 8, 2026.
 
