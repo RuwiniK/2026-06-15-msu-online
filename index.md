@@ -439,6 +439,8 @@ please preview your site before committing, and make sure to run
   This workshop is designed to be run on pre-imaged Amazon Web Services (AWS) instances. All of the data and most of the software used in the workshop are hosted on an Amazon Machine Image (AMI). Some additional software must be installed on your computer.
   Please follow the instructions here to prepare your computer for the workshop:
   <a href = "https://datacarpentry.github.io/genomics-workshop/index.html#required-additional-software">Required additional software</a>.
+  This lesson requires a working spreadsheet program. If you don’t have a spreadsheet program already, you can use LibreOffice. Visit the 
+  <a href = "https://www.libreoffice.org/download/">LibreOffice installation page</a>.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
